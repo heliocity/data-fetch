@@ -5,7 +5,7 @@ function Index({ stars }) {
     <div>
       <p>Next.js has {stars} ⭐️</p>
       <Link href="/preact-stars">
-        <a>How about preact?</a>
+        <a>---How about preact?</a>
       </Link>
     </div>
   )
